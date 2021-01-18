@@ -1,0 +1,4 @@
+[flake8]
+ignore = D203
+exclude = tests,migrations
+max-line-length = 99

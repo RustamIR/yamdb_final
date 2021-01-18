@@ -20,3 +20,8 @@ static/
 posts/static/
 
 db.sqlite3
+
+api/migrations
+titles/migrations
+users/migrations
+api_yamdb/settings.py
